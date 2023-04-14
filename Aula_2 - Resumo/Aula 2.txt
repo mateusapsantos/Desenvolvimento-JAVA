@@ -1,0 +1,7 @@
+Resumo - Aula 2
+
+Como continuação da aula anterior, iremos agora fazer a instalação do programa JAVA atraves do site https://www.oracle.com/br/java/ conhecido tambem como JDK e podemos fazer essa instalação em todos os usuarios do Windows, o download e bem simples fazendo a instalação, devemos fazer as variaveis do ambiente por ação do JAVA, precisando apenas do endereço e do caminho e para frazer essa instalação o usuario precisa estar como administrador, todos esses passos serao utilizados da mesma forma para todos os sistemas operacionais..
+Quando fazemos a isntalação ha duas opcoes no site da oracle JDK e JRE, JDK e para usuarios que irão desenvolver com JAVA, ja o JRE ele e um programinha que precisa ser instalado para podemos executar o JAVA.... 
+ex: para executar o programa de imposto de renda da receita federal, precisa do JRE instalado para poder fazer a abertura do imposto.
+
+Realizando o processo de instalação que e um processo simples como dito anteriormente, com o programa instalado iremos configura-lo atravez do propt comando - cmd, utilizaremos alguns comandos para realização do processso ate o fim.

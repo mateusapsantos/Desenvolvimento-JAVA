@@ -1,0 +1,11 @@
+ e Resumo - Desenvolvimento Mateus 12009 e 2010 
+A Linguagem Java tem como principais pontos de ser uma Linguagem, simples, orientada a objetos, distribuida, rebusta, segura, entre outras...
+Para utilizar a linguagem Java e necessario fazer a compilação da linguagem Java para que a JVM (Maquina Virtual Java) entende, e possivel rodar esse programa em qualquer sistema operacional, Windows, Linux, Mac ou qulaquer servidor...
+E possivel rodar em diversas plataformas e o caminho responsavel por isso e o JVM.
+A linguagem JAVA tem um ponto interessante (WORA) Escreva uma vez, execute e rode em qualquer lugar e isso so e possivel por causa daquele caminho da JVM.
+API - Conjunto de bibliotecas
+Quando escrevemos um programa em Java ele pode estar utilizando uma API Java e ele vai rodar em cima da JVM e essa API + JVM e o que chamamos de plataforma JAVA elae unica e especifica para cada plataforma.
+Empresa responsavel pela criação do JAVA: SunMicrosystems entre 2009 e 2010 a SUN foi comprada pela empresa Oracle.
+Podemos trabalhar com JAVA em servidores o que chamamos de Java Web e API e Java EE, tendo como base o Java SE.
+Ponto importante a maioria dos profissionais hoje em dia trabalham com Java Web.
+H9je em dia a maioria das coisas vai JAVA um exemplo interessante sao nossos cartões de Debito/Credito que possui chip e utilizado Java tbm.
