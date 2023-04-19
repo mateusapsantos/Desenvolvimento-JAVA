@@ -1,0 +1,9 @@
+Resumo - Aula 2
+
+Nesta aula aprendemos a fazer a instalação do JAVA diretamente do site da https://www.oracle.com/br/java/, entra no site o procedimento e simples e padrao, feito isso, iremos fazer as configurações da variaveis de ambiente ... todo esse processo e feito em qualquer sistema operacional. 
+Com o JDK e o JAVA instalado na maquina, iremos abrir o Propt Comandon para fazer a verificacao do JRE se foi instalado corretamente.
+
+Comandos utilizados: - java -version - para executar o programa
+- javac -version - para compilação
+
+Pronto, so colocar o programa para rodar.

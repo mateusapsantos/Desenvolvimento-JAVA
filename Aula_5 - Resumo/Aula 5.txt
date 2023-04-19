@@ -1,0 +1,15 @@
+Resumo - Aula 5
+
+Nesta aula iremos colocar um pouco em pratica tudo que aprendemos ate aqui, comecando pelo tradicional "Hello word" primeiro passo criar uma pasta onde sera armazenado o projetinho, o IDE utilizado como e de preferencio do desenvolvedor, optei como de costume pelo Visual Studio, feito tudo isso, iremos realizar toda a linha de codigo para realização do projeto, com tudo isso finalizado, iremos fazer a copilação do arquivo, utilizando alguns comandos passado em aula e sera praticado no exercicio de logo em seguida.
+
+Entendedno os codigos:
+
+- Realizei uma Class - Declaração da Classe
+- Nome da classe (Hello World)
+- Metodo sao as funçoes que a classe esta excercendo
+- Modificadores de acessi - public static
+- Tipo de Retorno do metodo - void
+- Nome do metodo - main
+- Parametros/Argumentos do metodo - String[] args)
+- Nosso codigo - System.out.println("Hello World!");
+- Bloco estao entre {}

@@ -1,0 +1,13 @@
+Resumo - Aula 1
+
+Podemos ter como definição da linguagem JAVA alguns itens:
+
+- Simples
+- Orientada a Objeto
+- Segura
+- Dinâmica
+- Pórtavel
+
+Para podermos escrever/rodar um programa em JAVA e necessario alguns requsiitos para issso, primeiro fazer a instalação do JDK e posteriormente a compilação, o JAVA possui uma API que e um conjunto de bibliotecas.
+A Sun Microsystems e a responsavel pela criação do JAVA, porem ela nao existe mais, foi comprada pela ORACLE entre 2009 e 2010.
+Com o JAVA podemos fazer diversas coisas, tanto na parte de mobile, TV, Desktop, Cartoes de  Credito possui JAVA rodando tambem.
