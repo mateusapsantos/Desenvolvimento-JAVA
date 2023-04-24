@@ -1,0 +1,3 @@
+Resumo exercicio 5
+
+Utilização do "0" foi por conta de: todo programa java executado por linha de comando ele recebe parametros e argumentos que sao o (args) por ele ser uma array de strings, como nesta linha eu executei apenas uma linha o index foi a numeraçao (0)
