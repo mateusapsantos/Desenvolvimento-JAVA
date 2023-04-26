@@ -1,0 +1,18 @@
+Resumo Aula 7
+
+Nessa aula iremos entender os erros de processo e como solucionarmos..
+
+Ha alguns tipos de erros como:
+
+- Erros de Sintaxe ( erros nas classes )
+- Erros de Semântica ( erros de declarações de variaveis, nao declarar de acordo com o que o JAVA espera )
+- Erros em Tempo de Execução ( erros na linha de codigo )
+
+ Dentro da pasta coloquei um exemplo de um erro proposital, rodando sem um ";" para vizualizar o erro que consta no CMD, posteriormente nao foi possivel fazer a compilação do arquivo devido a esse erro.
+Isso e apenas um dos exemplos de erros que pode acontecer durante o processo de codação, erros simples que se tornam grandes no final, bom resumindo isso sao exemplos de erros de SINTAXE.	
+Coloquei um outro exemplo de erro em semantica, quando se declara uma cariavel e no termina ele consta a linha de codigo onde esta o erro.
+O terceiro e ultimo exemplo e o erro no tempo de execução, apos a realização dos comando ele avisa a linha que esta sendo executada o erro.
+
+
+
+
