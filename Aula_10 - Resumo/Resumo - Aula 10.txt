@@ -1,0 +1,14 @@
+Resumo Aula - 10
+
+Neste resumo vou falar de variaveis, o que seria variaveis
+
+Ex: Área associada ao nome que pode armazenar um certo valor determinado, abaixo um exemplo de declaração de variavel
+
+- <tipo><nome da variavel>;
+
+- <tipo><nome da variavel> = <valor>;
+
+Convenção de Nomenclatura
+
+A convenção de nomenclatura em Java é uma regra a seguir quando se decide nomear seus identificadores, como classes, pacotes, variáveis, constantes, métodos, etc. Mas, não se é forçado a seguir. Portanto, é conhecido como convenção nao uma regra.
+Came Case ela é uma convenção de nomenclatura usada por para deixar o seu código mais legível para outros DEVs. Através dela você deixa a primeira letra de cada palavra (de um termo composto) em maiúsculo, com exceção do primeiro termo, segundo termo e assim sucessivamente.

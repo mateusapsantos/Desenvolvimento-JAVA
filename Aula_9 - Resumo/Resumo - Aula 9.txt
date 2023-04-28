@@ -1,0 +1,26 @@
+Resumo Aula - 9
+
+O resumo desta aula tem muito relacioando aos paradigmas estruturado e orientado a objetos, as vantagens de OO são: Reuso de Codigo, Reflete o mundo real, Facilita Manutenção no Codigo.
+
+Conceitos de "OO"
+
+-Classes ( Descrição de um grupo de objetos )
+-Objetos
+-Herança
+-Polimorfismo
+
+Os 4 pilares:
+
+-Polimorfismo
+-Herança
+-Abstração
+-Encapsulamento
+
+Objetos e Herança 
+
+A Herança possibilita que as classes compartilhem seus atributos, métodos e outros membros da classe entre si. Para a ligação entre as classes, a herança adota um relacionamento esquematizado hierarquicamente. Temos dois tipos de classes na herança Base, Derivada.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Encapsulamento, expoe somente o que pode ser acessado publicamente.
+
+Abstração, esconder os detalhes da implementação dentro de algo, pode ser um prototipo ou as vezes umas função, quando voce chama a função nao precisa entender exatamente o que esta fazendo.
