@@ -1,0 +1,14 @@
+Resumo Aula 11
+
+Essa aula em resumo posso dizer que o que foi explicado e mais voltado a logica da programação do que as proprias variaveis.
+Realizei algumas declaraçoes de variaveis com tipos inteiros o que seria tipos inteiros: Byte, Short, Int, Long
+E um tipo booleano:Que pode somente ter os valores true (verdadeiro) ou false (falso)
+Temos 1 tipo de chara: char representando um símbolo/letra.
+São 2 tipos com pontos flutuantes (representações de números reais)
+Tudo isso citado acima sao tipos de variaveis primitivas para referenciar objetos, na proxima aula tudo isso que resumi sera colocado em pratica
+
+float: Variável numérica do tipo decimal. 
+double: Variável numérica do tipo decimal de precisão dupla. 
+char: Variável que representa um caractere do tipo texto.
+
+Pelo que eu entendi do contexto da aula o que nao estava facil as quando declaramos uma variável primitiva, estamos associando está a um espaço na memória que vai guardar o seu valor, ou declarar se e verdadeiro ou falso.
