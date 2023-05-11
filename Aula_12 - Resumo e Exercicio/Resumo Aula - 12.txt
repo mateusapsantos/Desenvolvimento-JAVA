@@ -1,0 +1,8 @@
+Resumo Aula - 8
+
+- Instalação do Eclipse
+- Instalação do Netbeans
+
+O Eclipse e uma IDE altamente usada pelos desenvolvedores JAVA.
+
+Netbeans: O NetBeans IDE é um ambiente de desenvolvimento integrado e de código aberto para desenvolvedores de software nas linguagens Java, JavaScript, HTML5, PHP, C/C++, Groovy, Ruby, entre outras. O IDE é executado em muitas plataformas, como Windows,Ubuntu, Linux...

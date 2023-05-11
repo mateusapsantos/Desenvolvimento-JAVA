@@ -1,0 +1,35 @@
+Resumo Aula - 9
+
+O resumo desta aula tem muito relacioando aos paradigmas estruturado e orientado a objetos, as vantagens de OO são: Reuso de Codigo, Reflete o mundo real, Facilita Manutenção no Codigo.
+
+Conceitos de "OO"
+
+-Classes ( Descrição de um grupo de objetos )
+-Objetos
+-Herança
+-Polimorfismo
+
+Os 4 pilares:
+
+-Polimorfismo
+-Herança
+-Abstração
+-Encapsulamento
+
+Objetos e Herança 
+
+Objeto
+
+objeto é a instância de uma classe, uma classe é a definição que descreve o comportamento e as características de um conjunto de objetos. Quando um objeto é criado a partir de uma classe, serve para conter seus próprios valores para os atributos da classe e pode executar os métodos definidos na classe, um exemplo "andar" e "falar"
+Objeto e usado atravez de uma classe que descreve as caracteristicas e comportamentos desejados, dai em diante e possivel utilizar o objeto.
+
+A Herança possibilita que as classes compartilhem seus atributos, métodos e outros membros da classe entre si. Para a ligação entre as classes, a herança herda atributos e metodos de outra classe. Temos dois tipos de classes na herança Base, Derivada.
+Para usar herança em Java precisa criar uma classe base onde descreve as caractristicas comunus a um grupo de objetos.
+Depois criar uma subclasse que herde os atributos e metodos da classe base.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Encapsulamento, expoe somente o que pode ser acessado publicamente. usado para garantir a segurança e a consistência do código, ocultando os detalhes de implementação de uma classe e fornecendo métodos controlados para acessar e modificar atributos, para usar, basta declarar o atributo da classe privada.
+
+Polimorfisomo ele tem uma certa ligação com heranca, dividio em duas partes estatico e dinamico, estatico e a sobrecarga quando tem varios metodos com o mesmo nome e oo dinamico e a sobrescrita quando uma subclasse redefine um método de sua superclasse.
+
+Abstração, esconder os detalhes da implementação dentro de algo, pode ser um prototipo ou as vezes umas função, quando voce chama a função nao precisa entender exatamente o que esta fazendo.
