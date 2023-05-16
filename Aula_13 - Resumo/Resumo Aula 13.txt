@@ -1,0 +1,9 @@
+Resumo Aula 13
+
+Nesta aula tive como base de aprendizado a compilação de operações tais como: Aritmetico, Logico e Relacioanais
+As primeiras operaçoes realizadas adição, subtração, multiplicação e divisao, tem como objetvo achar o resultado de cada operação e posteriormente imprimir atravez da linha de codigo System.out.println(resultado);
+Nos operadores relacionais pelo que entendi tem como base executar a linha de codigo e se aquela operacao e verdadeira ou falsa
+
+exemplo: System.out.println("valor1 == valor2: " + (valor1 == valor2)); no caso essa linha de codigo se da como (false)
+
+Nos operadores logicos utilizamos bastante o (&),(XOR) que sao chamados de curtos circuitos para eles serem utilizados so quando tiver uma expressao (boolean).
