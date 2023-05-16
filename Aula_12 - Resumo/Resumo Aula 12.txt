@@ -1,0 +1,7 @@
+Resumo - Aula 12
+
+Resumo desta aula tem como base principal a utilizacao da API do JAVA que é a classe Scanner, com ela utilizamos em todas as linhas de codigo JAVA e posteriormente conseguimos fazer a leitura da linha atravez desta (classe)mas, antes de declarar esta classe utilizo o codigo (import_java.util.Scanner;) e public class LeituraDadosTeclado, o porque que utiulizo essas linhas de codigo, para o JAVA entender que quero utilizar essa classe como codigo.
+Como contexto desse resumo realizei o exercicio, onde onde consigo colocar a classe em execução e posteriormente fazer a execução dessa leitura de linha 
+
+Como exemplos: utilizei o meu nome, idade, nome completo, primeiro nome, altura...
+
