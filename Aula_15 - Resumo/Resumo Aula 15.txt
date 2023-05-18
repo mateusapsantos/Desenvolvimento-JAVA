@@ -1,0 +1,28 @@
+Resumo Aula 15
+
+O resumo desta aula:
+
+Fiz a execução de um programa rodando os dias da semana de (1-7) (Domingo a Sábado)
+De inicio para fazer a leitura do numero que o usuario vai entrar utilizei a classe (Scanner) abri um (int) para ler os dias da semana e um (if) com os dias da semana integrado ao numero X
+
+EX:if (diaSemana == 1){
+        System.out.println("Domingo");
+} else if (diaSemana == 2){
+        System.out.println("Segunda")
+
+A (else if) e aberta para os demais dias.
+Por fim abri uma (else) com a linha de codigo System.out.println("Não é um dia da semana válido"); para caso o usuario digite um numero alem do 1 ao 7 o programa nao dara permissão.
+
+Abri um switch - Case ele e uma alternativa para para reduzir esse monte de codigo realizado na (if) 
+
+ex: case 1: System.out.println("Domingo");
+    case 2: System.out.println("Segunda");
+
+Linhas de codigos mais reduzidas
+
+Abri uma condicional 
+default: System.out.println("Não é um dia da semana válido");
+para caso o usuario digite um numero alem do 1 ao 7 o programa nao dara permissão.
+
+E por fim o comando (break) e usado para interromper a execução de loops e blocos condicionais.
+

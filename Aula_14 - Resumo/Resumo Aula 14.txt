@@ -1,0 +1,16 @@
+Resumo Aula 13
+
+O Resumo desta aula tem como pricipio a utilizacao do comando IF e o IF ELSE
+Esse comando IF e uma condicional que e utilizada se o numero for maior ou igual a X
+ex: if (idade >= 18){
+      System.out.println("É maior de idade.");
+So aparecera na tela a execução da linha de codigo se a idade for maior ou igual a 18 conforme exemplo, no caso se essa condicional for VERDADEIRA
+
+Ja o IF ELSE e utilizado se a condição for FALSA CONFORME O EXEMPLO ABAIXO:
+if (idade >= 18){
+      System.out.println("É maior de idade.");
+   } else {
+      System.out.println("Não é maior de idade.");
+   }
+
+Portanto o contexto de toda essa aula é o IF e o IF ELSE e utilizado se o numero for maior ou igual a X e o ELSE se o numero for maior que X. 
